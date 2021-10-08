@@ -1,0 +1,70 @@
+p{
+  font-family: times;
+}
+
+body{
+  padding: 0px;
+  margin: 0px;
+}
+
+#banner{
+  width:100vw;
+  height: 350px;
+  position: relative;
+  overflow: hidden;
+  margin: 0 0 0 0;
+  padding: 0px;
+  bottom: 10px;
+}
+
+#ivyimg{
+  width: 100vw;
+  height: 500px;
+  position: relative;
+  overflow: hidden;
+  margin: -225px 0px 0px 0px;
+  padding: 0px;
+  z-index: -10;
+}
+
+h1, h2{
+  font-family: Helvetica;
+}
+
+#banner h1{
+  color: white;
+  text-shadow: 2px 2px orange;
+  z-index: 1;
+  position: relative;
+  font-size: 5vw;
+  margin: 7vw 0 0 4vw;
+}
+
+#first, #second, #third{
+  margin-left: 4vw;
+  margin-right: 4vw;
+}
+
+#mybutton{
+  background-color: skyblue;
+  color: navy;
+  border-radius: 10px;
+  font-size: 30px;
+  padding: 3
+
+}
+
+#mybutton2{
+  background-color: green;
+  color: white;
+  border-radius: 10px;
+  font-size: 30px;
+}
+button:active{
+  background-color: grey;
+  color: black;
+}
+
+button:hover{
+  border: dashed black 3px;
+}

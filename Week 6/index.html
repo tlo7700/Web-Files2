@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Week 6</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body id=background>
+    <section id="banner">
+      <h1 id="bannerText">WELCOME TO MY SITE!</h1>
+      <img src="IvyBuilding.jpg" alt="a building in montreal canada that is covered in ivy" id="ivyimg">
+    </section>
+
+    <section id="first">
+      <h2 id="heading1">This is my first section</h2>
+      <p id="pText1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <p id="pText2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    </section>
+
+    <section id="second">
+      <h2 id="heading2">This is my second section</h2>
+      <p id="pText3">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <p id="pText4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    </section>
+
+    <section id="third">
+      <button id="mybutton">Smack Me!</button>
+      <button id="mybutton2">I'm Cheeky</button>
+    </section>
+
+    <script type="text/javascript">
+      console.log("javascript working");
+      document.getElementById("mybutton").addEventListener("click", buttonOne);
+      document.getElementById("mybutton2").addEventListener("click", buttonTwo);
+
+      function buttonOne(){
+        alert("Ouch!");
+        document.getElementById("first").style.color = "red";
+        document.getElementById("second").style.color = "red";
+      }
+
+      function buttonTwo(){
+        document.getElementById("bannerText").innerHTML = ";)";
+        document.getElementById("ivyimg").src = "rickroll.gif";
+        document.getElementById("pText1").innerHTML = "We're no strangers to love. You know the rules and so do I. A full commitment's what I'm thinking of. You wouldn't get this from any other guy. I just wanna tell you how I'm feeling. Gotta make you understand.";
+        document.getElementById("pText2").innerHTML = "Never gonna give you up. Never gonna let you down. Never gonna run around and desert you. Never gonna make you cry. Never gonna say goodbye. Never gonna tell a lie and hurt you!";
+        document.getElementById("pText3").innerHTML = "We've known each other for so long. Your heart's been aching but you're too shy to say it. Inside we both know what's been going on. We know the game and we're going to play it. And if you ask me how I'm feeling. Don't tell me you're too blind to see.";
+        document.getElementById("pText4").innerHTML = "Never gonna give you up. Never gonna let you down. Never gonna run around and desert you. Never gonna make you cry. Never gonna say goodbye. Never gonna tell a lie and hurt you!";
+        document.getElementById("heading1").innerHTML = "Verse 1";
+        document.getElementById("heading2").innerHTML = "Verse 2";
+      }
+
+    </script>
+
+
+  </body>
+</html>
