@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Mac Miller Quote Machine</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap">
+  </head>
+  <body>
+
+  <section id ="quotesection">
+    <h1 id ="qtext">Welcome to the Mac Miller quote machine, click the button to get a new quote.</h1>
+    <button id = "newquote" type="button" name="button">New Quote</button>
+  </section>
+  <script type="text/javascript">
+    const quotes =["They’re gonna try to tell you no, shatter all your dreams. But you gotta get up, and go and think of better things.",
+    "Life goes on, days get brighter.", "No matter where life takes me, find me with a smile.","People change and things go wrong, but just remember, life goes on.",
+    "Some people need to just stop thinking about everything they do and just do it.",
+    "Stand by those who stand by you.","If you didn’t make mistakes, you wouldn’t get far.","The life you live is more important than the words you speak.",
+    "Life’s a bitch. But she’s my bitch.","It’s hard to dream when you’re deep inside of one.","Don’t count the number of friends you have, but the number of friends you can count on.",
+    "Never scared of death, but I ain’t ready for that day to come."]
+    let quotecount = 0;
+    document.getElementById("newquote").addEventListener("click", buttonClicked);
+    function buttonClicked(){
+      console.log(quotes[quotecount]);
+      document.getElementById("qtext").innerHTML = quotes[quotecount];
+      if(quotecount>10){
+        quotecount = 0;
+      }else{
+        quotecount++;
+      }
+    }
+  </script>
+  </body>
+</html>

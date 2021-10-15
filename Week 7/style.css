@@ -1,0 +1,36 @@
+body{
+  background-color: #DEE7E7;
+  background: url("mmBackground.jpeg");
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat:no-repeat;
+
+}
+#quotesection{
+  background: url("goldframe.jpeg");
+  fa8072;
+  margin: 30vh 20vw;
+  padding: 5vh 5vw;
+  border-radius: 8px;
+
+}
+
+
+button{
+  background-color: #DEE7E7;
+  font-weight: bold;
+  border-radius: 8px;
+  padding: 1vh 3vw;
+  margin-top: 1vh;
+  border: solid #FFB6C1;
+}
+
+button:hover{
+  border: solid black;
+}
+
+h1{
+  color: black;
+  font-family: 'Permanent Marker', cursive;
+  text-shadow: 2px 2px #DEE7E7;
+}
