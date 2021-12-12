@@ -1,0 +1,322 @@
+/* screen - desktop-2 */
+
+.desktop-2 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2843px;
+  min-width: 1440px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-2 .rectangle-11-9Mbqq5 {
+  background-color: var(--bunker);
+  height: 1587px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.desktop-2 .work-9Mbqq5 {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 997px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: auto;
+}
+
+.desktop-2 .home-9Mbqq5 {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 740px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: auto;
+}
+
+.desktop-2 .about-9Mbqq5 {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1242px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: auto;
+}
+
+.desktop-2 .say-hi-9Mbqq5 {
+  -webkit-text-stroke: 2px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 486px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 2500px;
+  width: auto;
+}
+
+.desktop-2 .tlo7700gmailcom-9Mbqq5 {
+  background-color: transparent;
+  height: auto;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2603px;
+  width: auto;
+}
+
+.desktop-2 .address-9Mbqq5 {
+  -webkit-text-stroke: 1px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 191px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 2544px;
+  width: auto;
+}
+
+.desktop-2 .group-29-9Mbqq5 {
+  background-color: transparent;
+  height: 826px;
+  left: 54px;
+  position: absolute;
+  top: 96px;
+  width: 251px;
+}
+
+.desktop-2 .welcome-wA3stJ {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: 200px;
+  font-style: italic;
+  font-weight: 900;
+  height: auto;
+  left: -290px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 291px;
+  width: auto;
+}
+
+.desktop-2 .welcome-0kCwX2 {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  color: transparent;
+  font-family: var(--font-family-roboto);
+  font-size: 200px;
+  font-style: italic;
+  font-weight: 900;
+  height: auto;
+  left: -278px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 301px;
+  width: auto;
+}
+
+.desktop-2 .group-4-9Mbqq5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 42px;
+  left: 513px;
+  position: absolute;
+  top: 2710px;
+  width: 414px;
+}
+
+.desktop-2 .work-GCcSBu {
+  -webkit-text-stroke: 1px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 160px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: auto;
+}
+
+.desktop-2 .home-GCcSBu {
+  -webkit-text-stroke: 1px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: -1px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: auto;
+}
+
+.desktop-2 .about-GCcSBu {
+  -webkit-text-stroke: 1px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 309px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: auto;
+}
+
+.desktop-2 .group-28-9Mbqq5 {
+  background-color: transparent;
+  height: 328px;
+  left: 160px;
+  position: absolute;
+  top: 1141px;
+  width: 1125px;
+}
+
+.desktop-2 .tyler-lopez-01szpO {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: 144px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 368px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 49px;
+  width: auto;
+}
+
+.desktop-2 .hi-im-01szpO {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 368px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-2 .mask-group-01szpO {
+  background-color: transparent;
+  height: 328px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 276px;
+}
+
+.desktop-2 .im-a-9Mbqq5 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: 144px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 103px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1727px;
+  width: auto;
+}
+
+.desktop-2 .graphic-designer-9Mbqq5 {
+  background-color: transparent;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1960px;
+  width: auto;
+}
+
+.desktop-2 .photographer-9Mbqq5 {
+  background-color: transparent;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2075px;
+  width: auto;
+}
+
+.desktop-2 .ux-designer-9Mbqq5 {
+  background-color: transparent;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2190px;
+  width: auto;
+}
+
+.desktop-2 .web-designer-9Mbqq5 {
+  background-color: transparent;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2305px;
+  width: auto;
+}

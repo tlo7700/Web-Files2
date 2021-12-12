@@ -1,0 +1,77 @@
+p{
+  color: red;
+  font-family: helvetica;
+}
+body{
+  padding: 0px;
+  margin: 0px;
+}
+#mural{
+  width:100vw;
+  height: 30vw;
+  overflow: hidden;
+  position: relative;
+  bottom:5px;
+  margin: 0 0 0 0;
+  padding: 0px;
+
+}
+#muralimg{
+  width:100vw;
+  position: relative;
+  overflow: hidden;
+}
+h1, h2{
+  font-family: "Bebas Neue"
+}
+#mural h1{
+  color: purple;
+  z-index: 1;
+  position: relative;
+  font-size: 5vw;
+  top: 30vh;
+  margin: 0 0 0 7vw;
+}
+
+#one, #two, #three{
+  margin-left: 7vw;
+  margin-right: 5vw;
+}
+h2{
+  font-size: 40px;
+}
+
+div{
+  margin-top: 10vw;
+
+}
+button{
+  background-color: yellow;
+  font-family: "Bebas Neue";
+  border-radius: 10px;
+  font-size: 30px;
+  margin: 10px;
+  padding: 7px 20px
+
+}
+button:active{
+  background-color: blue;
+  color: white;
+}
+button:hover{
+  border: solid black 3px;
+}
+
+a:link{
+  color: blue;
+}
+
+a.visited{
+  color: grey;
+}
+a.hover{
+  font-size: 200px;
+}
+a.active{
+  color: red;
+}

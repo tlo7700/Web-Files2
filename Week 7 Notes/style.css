@@ -1,0 +1,42 @@
+#quotesection{
+  background-color: #4F646F;
+  margin: 30vh 20vw;
+  padding: 10vh 10vw;
+  border-radius: 8px;
+}
+
+button{
+  border-radius: 8px;
+  padding: 1vh 3vw;
+  float: right;
+  margin-top: 1vh;
+  background-color: #535657;
+  color: #DEE7E7;
+  font-family: helvetica;
+}
+button:hover{
+  border: solid #DEE7E7
+}
+button:clicked{
+  background-color: black;
+
+}
+h1{
+  color: #DEE7E7;
+  font-family: times;
+  font-size: 3vh;
+  font-weight: 200;
+}
+#flex{
+  display: flex;
+  margin: 150px;
+}
+
+div{
+  border: 1px solid black;
+  margin-left: 2vw;
+}
+
+.flexitem{
+  flex-grow: 1;
+}

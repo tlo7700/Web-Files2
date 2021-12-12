@@ -1,0 +1,727 @@
+/* screen - desktop-4 */
+
+.desktop-4 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 6899px;
+  min-width: 1440px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-4 .rectangle-244-ZwZd20 {
+  background-color: var(--white);
+  height: 397px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6502px;
+  width: 1440px;
+}
+
+.desktop-4 .rectangle-5-ZwZd20 {
+  background-color: transparent;
+  height: 2426px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.desktop-4 .work-ZwZd20 {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  color: #0000001a;
+  font-family: var(--font-family-roboto);
+  font-size: 288px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 376px;
+  width: auto;
+}
+
+.desktop-4 .ellipse-1-ZwZd20 {
+  background-color: transparent;
+  height: 250px;
+  left: 595px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 345px;
+  width: 250px;
+}
+
+.desktop-4 .rectangle-8-ZwZd20 {
+  background-color: transparent;
+  height: 1024px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5478px;
+  width: 1440px;
+}
+
+.desktop-4 .cu-boulder-ZwZd20 {
+  -webkit-text-stroke: 3px var(--heavy-metal);
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 343px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 4737px;
+  width: 681px;
+}
+
+.desktop-4 .final_-board-p1-2-ZwZd20 {
+  background-color: transparent;
+  height: 417px;
+  left: 287px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 4721px;
+  width: 888px;
+}
+
+.desktop-4 .rectangle-7-ZwZd20 {
+  background-color: var(--total-leisure);
+  height: 1024px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3430px;
+  width: 1440px;
+}
+
+.desktop-4 .jumpstart-ZwZd20 {
+  -webkit-text-stroke: 2px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 98px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 3644px;
+  width: 736px;
+}
+
+.desktop-4 .autism-ZwZd20 {
+  -webkit-text-stroke: 2px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 98px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 3832px;
+  width: 494px;
+}
+
+.desktop-4 .center-ZwZd20 {
+  -webkit-text-stroke: 2px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 98px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 4014px;
+  width: 494px;
+}
+
+.desktop-4 .view-work-ZwZd20 {
+  background-color: transparent;
+  color: var(--total-leisure);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 828px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 3075px;
+  width: auto;
+}
+
+.desktop-4 .view-work-VZlvvy {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 261px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4192px;
+  width: auto;
+}
+
+.desktop-4 .total-ZwZd20 {
+  -webkit-text-stroke: 2px var(--total-leisure);
+  background-color: transparent;
+  height: auto;
+  left: 694px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 2728px;
+  width: auto;
+}
+
+.desktop-4 .leisure-ZwZd20 {
+  -webkit-text-stroke: 2px var(--total-leisure);
+  background-color: transparent;
+  height: auto;
+  left: 690px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 2897px;
+  width: 493px;
+}
+
+.desktop-4 .work-VZlvvy {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 997px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: auto;
+}
+
+.desktop-4 .home-ZwZd20 {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 740px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: auto;
+}
+
+.desktop-4 .about-ZwZd20 {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1242px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: auto;
+}
+
+.desktop-4 .jac-nm-1-1-ZwZd20 {
+  background-color: transparent;
+  height: 472px;
+  left: 650px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 3706px;
+  width: 620px;
+}
+
+.desktop-4 .buff-pool-party-ZwZd20 {
+  -webkit-text-stroke: 3px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 197px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 1485px;
+  width: 1040px;
+}
+
+.desktop-4 .buff-pool-party-VZlvvy {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 199px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 1901px;
+  width: 1040px;
+}
+
+.desktop-4 .buff-pool-party-AyU5uj {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 199px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 1630px;
+  width: 1040px;
+}
+
+.desktop-4 .buff-pool-party-0nNxXJ {
+  -webkit-text-stroke: 3px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 197px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 2043px;
+  width: 1040px;
+}
+
+.desktop-4 .buff-pool-party-nEaxft {
+  -webkit-text-stroke: 3px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 197px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 1765px;
+  width: 1040px;
+}
+
+.desktop-4 .buff-pool-party-xL5sfn {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 199px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 2181px;
+  width: 1040px;
+}
+
+.desktop-4 .untitled_-artwork-3-1-ZwZd20 {
+  background-color: transparent;
+  height: 721px;
+  left: 483px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1588px;
+  width: 479px;
+}
+
+.desktop-4 .view-work-AyU5uj {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 636px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2144px;
+  width: auto;
+}
+
+.desktop-4 .view-work-0nNxXJ {
+  background-color: transparent;
+  color: var(--heavy-metal);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 900;
+  height: auto;
+  left: 636px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 5233px;
+  width: auto;
+}
+
+.desktop-4 .view-work-nEaxft {
+  background-color: transparent;
+  color: var(--white);
+  cursor: pointer;
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 900;
+  height: auto;
+  left: 636px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6316px;
+  width: auto;
+}
+
+.desktop-4 .food-decal-1-ZwZd20 {
+  background-color: transparent;
+  height: 693px;
+  left: 175px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 2635px;
+  width: 461px;
+}
+
+.desktop-4 .redesign-ZwZd20 {
+  background-color: transparent;
+  color: var(--heavy-metal);
+  font-family: var(--font-family-roboto);
+  font-size: 113px;
+  font-style: normal;
+  font-weight: 900;
+  height: auto;
+  left: 449px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 5088px;
+  width: 543px;
+}
+
+.desktop-4 .food-ZwZd20 {
+  -webkit-text-stroke: 3px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 96px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 5927px;
+  width: 295px;
+}
+
+.desktop-4 .savior-ZwZd20 {
+  -webkit-text-stroke: 3px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 932px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 5927px;
+  width: 415px;
+}
+
+.desktop-4 .concert-poster-ZwZd20 {
+  background-color: transparent;
+  height: auto;
+  left: 1121px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2231px;
+  width: auto;
+}
+
+.desktop-4 .food-packaging-branding-ZwZd20 {
+  background-color: transparent;
+  color: var(--total-leisure);
+  font-family: var(--font-family-roboto);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 1123px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3212px;
+  width: auto;
+}
+
+.desktop-4 .logos-ZwZd20 {
+  background-color: transparent;
+  height: auto;
+  left: 1175px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 4261px;
+  width: auto;
+}
+
+.desktop-4 .architecturalproposal-ZwZd20 {
+  background-color: transparent;
+  color: var(--heavy-metal);
+  font-family: var(--font-family-roboto);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 1128px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5260px;
+  width: auto;
+}
+
+.desktop-4 .ux-design-ZwZd20 {
+  background-color: transparent;
+  height: auto;
+  left: 1156px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 6307px;
+  width: auto;
+}
+
+.desktop-4 .x05-ZwZd20 {
+  background-color: transparent;
+  height: auto;
+  left: 1158px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6215px;
+  width: 97px;
+}
+
+.desktop-4 .x01-ZwZd20 {
+  background-color: transparent;
+  height: auto;
+  left: 1157px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2138px;
+  width: 97px;
+}
+
+.desktop-4 .x02-ZwZd20 {
+  background-color: transparent;
+  color: var(--total-leisure);
+  font-family: var(--font-family-roboto);
+  font-size: 80px;
+  font-style: normal;
+  font-weight: 900;
+  height: auto;
+  left: 1158px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 3120px;
+  width: 97px;
+}
+
+.desktop-4 .x03-ZwZd20 {
+  background-color: transparent;
+  height: auto;
+  left: 1158px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4167px;
+  width: 97px;
+}
+
+.desktop-4 .x04-ZwZd20 {
+  background-color: transparent;
+  color: var(--heavy-metal);
+  font-family: var(--font-family-roboto);
+  font-size: 80px;
+  font-style: normal;
+  font-weight: 900;
+  height: auto;
+  left: 1158px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 5168px;
+  width: 97px;
+}
+
+.desktop-4 .say-hi-ZwZd20 {
+  -webkit-text-stroke: 2px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 490px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 6583px;
+  width: auto;
+}
+
+.desktop-4 .tlo7700gmailcom-ZwZd20 {
+  background-color: transparent;
+  height: auto;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6690px;
+  width: auto;
+}
+
+.desktop-4 .address-ZwZd20 {
+  -webkit-text-stroke: 1px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 191px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 6627px;
+  width: auto;
+}
+
+.desktop-4 .group-4-ZwZd20 {
+  background-color: transparent;
+  height: 42px;
+  left: 516px;
+  position: absolute;
+  top: 6793px;
+  width: 414px;
+}
+
+.desktop-4 .work-ZXqACE {
+  -webkit-text-stroke: 1px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 160px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: auto;
+}
+
+.desktop-4 .home-ZXqACE {
+  -webkit-text-stroke: 1px var(--black);
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: -1px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: auto;
+}
+
+.desktop-4 .about-ZXqACE {
+  -webkit-text-stroke: 1px var(--black);
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 309px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: auto;
+}
+
+.desktop-4 .work-AyU5uj {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: 288px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 356px;
+  width: auto;
+}
+
+.desktop-4 .iphone-x_img_2-3-ZwZd20 {
+  background-color: transparent;
+  height: 691px;
+  left: 347px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 5631px;
+  width: 670px;
+}

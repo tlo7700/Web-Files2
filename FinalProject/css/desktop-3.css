@@ -1,0 +1,506 @@
+/* screen - desktop-3 */
+
+.desktop-3 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 5703px;
+  min-width: 1440px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-3 .rectangle-10-cusbr8 {
+  background-color: var(--bunker);
+  height: 2123px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.desktop-3 .mask-group-cusbr8 {
+  background-color: transparent;
+  height: 472px;
+  left: 507px;
+  position: absolute;
+  top: 1277px;
+  width: 426px;
+}
+
+.desktop-3 .rectangle-11-cusbr8 {
+  background-color: var(--bunker);
+  height: 1805px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3492px;
+  width: 1440px;
+}
+
+.desktop-3 .work-cusbr8 {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 997px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: auto;
+}
+
+.desktop-3 .home-cusbr8 {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 740px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: auto;
+}
+
+.desktop-3 .about-cusbr8 {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 1242px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: auto;
+}
+
+.desktop-3 .say-hi-cusbr8 {
+  -webkit-text-stroke: 2px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 490px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 5378px;
+  width: auto;
+}
+
+.desktop-3 .group-4-cusbr8 {
+  background-color: transparent;
+  height: 42px;
+  left: 516px;
+  position: absolute;
+  top: 5588px;
+  width: 414px;
+}
+
+.desktop-3 .work-CkTSPV {
+  -webkit-text-stroke: 1px var(--black);
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 160px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: auto;
+}
+
+.desktop-3 .home-CkTSPV {
+  -webkit-text-stroke: 1px var(--black);
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: -1px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: auto;
+}
+
+.desktop-3 .about-CkTSPV {
+  -webkit-text-stroke: 1px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 309px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: auto;
+}
+
+.desktop-3 .passionate-hardworki-cusbr8 {
+  -webkit-text-stroke: 2px var(--black);
+  background-color: transparent;
+  color: transparent;
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxxl);
+  font-style: italic;
+  font-weight: 900;
+  height: auto;
+  left: 98px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 2315px;
+  width: 1238px;
+}
+
+.desktop-3 .group-3-cusbr8 {
+  background-color: transparent;
+  height: 671px;
+  left: 98px;
+  position: absolute;
+  top: 1213px;
+  width: 1248px;
+}
+
+.desktop-3 .x-9lxZcJ {
+  -webkit-text-stroke: 2px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 208px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 231px;
+  width: auto;
+}
+
+.desktop-3 .design-9lxZcJ {
+  -webkit-text-stroke: 2px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 890px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 231px;
+  width: auto;
+}
+
+.desktop-3 .group-2-9lxZcJ {
+  background-color: transparent;
+  height: 671px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1243px;
+}
+
+.desktop-3 .tyler-lopez-is-my-name-is9ljE {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 1241px;
+}
+
+.desktop-3 .span0-BtNDq4 {
+}
+
+.desktop-3 .span1-BtNDq4 {
+}
+
+.desktop-3 .group-1-is9ljE {
+  background-color: transparent;
+  height: 43px;
+  left: 206px;
+  position: absolute;
+  top: 628px;
+  width: 837px;
+}
+
+.desktop-3 .x5-11-W8vI21 {
+  background-color: transparent;
+  height: auto;
+  left: 259px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-3 .age-21-W8vI21 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 22px;
+  width: auto;
+}
+
+.desktop-3 .height-6-0-W8vI21 {
+  background-color: transparent;
+  color: transparent;
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 900;
+  height: auto;
+  left: 183px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  width: auto;
+}
+
+.desktop-3 .span0-oeFx59 {
+  font-style: normal;
+}
+
+.desktop-3 .studied-at-universit-W8vI21 {
+  background-color: transparent;
+  height: auto;
+  left: 415px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  width: auto;
+}
+
+.desktop-3 .line-1-W8vI21 {
+  background-color: transparent;
+  height: 2px;
+  left: 258px;
+  position: absolute;
+  top: 32px;
+  width: 42px;
+}
+
+.desktop-3 .frame-1-cusbr8::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.desktop-3 .frame-1-cusbr8 {
+  background-color: transparent;
+  height: 117px;
+  left: 101px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: scroll;
+  position: absolute;
+  top: 460px;
+  width: 1239px;
+}
+
+.desktop-3 .who-Szn43y {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 496px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: auto;
+}
+
+.desktop-3 .who-Vw7t8T {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: -105px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: auto;
+}
+
+.desktop-3 .who-q7LEjN {
+  background-color: transparent;
+  height: auto;
+  left: 802px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-3 .who-rtr9Qm {
+  background-color: transparent;
+  height: auto;
+  left: 201px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-3 .who-9VMAMK {
+  background-color: transparent;
+  height: auto;
+  left: 2007px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-3 .who-FIyKl5 {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 1701px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: auto;
+}
+
+.desktop-3 .who-XwxvQx {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 1100px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: auto;
+}
+
+.desktop-3 .who-xgDY3t {
+  background-color: transparent;
+  height: auto;
+  left: 1406px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-3 .skills-cusbr8 {
+  background-color: transparent;
+  height: auto;
+  left: 569px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 3864px;
+  width: auto;
+}
+
+.desktop-3 .yes-cusbr8 {
+  -webkit-text-stroke: 2px var(--white);
+  background-color: transparent;
+  color: transparent;
+  font-family: var(--font-family-roboto);
+  font-size: 300px;
+  font-style: italic;
+  font-weight: 900;
+  height: auto;
+  left: 411px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 4574px;
+  width: auto;
+}
+
+.desktop-3 .is-my-game-cusbr8 {
+  background-color: transparent;
+  height: auto;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1690px;
+  width: 1241px;
+}
+
+.desktop-3 .tlo7700gmailcom-cusbr8 {
+  background-color: transparent;
+  height: auto;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 5488px;
+  width: auto;
+}
+
+.desktop-3 .address-cusbr8 {
+  -webkit-text-stroke: 1px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 191px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 5422px;
+  width: auto;
+}
+
+.desktop-3 .portfolio-img-1-cusbr8 {
+  background-color: transparent;
+  height: 1020px;
+  left: 948px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 2214px;
+  width: 601px;
+}

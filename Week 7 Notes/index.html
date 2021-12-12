@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Week 7 Notes</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+  <section id="quotesection">
+
+  <h1 id = qtext>Welcome to the quote machine, click the button to get a quote.</h1>
+  <button id = "newquote" type="button" name="New Quote">New Quote</button>
+
+  </section>
+  <section id="flex">
+    <div class="flexitem">
+      <h2>one</h2>
+    </div>
+
+    <div class="flexitem">
+      <h2>two</h2>
+    </div>
+
+    <div class="flexitem">
+      <h2>three</h2>
+    </div>
+
+  </section>
+
+  <script type="text/javascript">
+    const quotes = ["Be the change that you wish to see in the world.","Without music, life would be a mistake.","We accept the love we think we deserve.","I have not failed. I've just found 10,000 ways that won't work.","It is never too late to be what you might have been.","Everything you can imagine is real.","Do what you can, with what you have, where you are."];
+
+    let quotecount = 0;
+    document.getElementById("newquote").addEventListener("click", buttonClicked);
+    function buttonClicked(){
+
+      console.log(quotes[quotecount]);
+      document.getElementById("qtext").innerHTML = quotes[quotecount];
+      if(quotecount>5){
+        quotecount = 0;
+      }else{
+        quotecount++;
+      }
+
+
+    }
+  </script>
+
+  </body>
+</html>
