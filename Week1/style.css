@@ -154,11 +154,6 @@ nav a {
   height: 100%;
 
 }
-
-.portfoliopic{
-
-}
-
 #contact{
   position: absolute;
   display: grid;
@@ -170,4 +165,7 @@ nav a {
   margin: 5vw 10vw 10vw 7vw;
   float: center;
   text-align: center;
+}
+.portfoliopic{
+
 }
